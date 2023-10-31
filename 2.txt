@@ -1,0 +1,13 @@
+Date of admission: 25/05/2023 15:55:34
+Name : komal
+Address : etul
+Contact Number : 4472545421
+Age : 32
+Sex : femail
+Blood Group : ab+
+Any Major disease suffered earlier : heart attack
+Patient ID : 444
+
+********************************************************************
+
+
